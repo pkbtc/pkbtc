@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Parasar Kaahyap.
-- 👀 I’m interested in BlockChain Development,AI,Application of BlockChain in finance.
-- 🌱 I’m currently learning React.js,DSA topics and BlockChain Development.
-- 💞️ I’m looking to collaborate on BlockChain Projects.
-- 📫 How to reach me Instagram-@mj_parasar and gmail-parasarkashyap038@gmail.com.
+# 👋 Hi, I'm Parasar Kashyap!
+👩🏻‍💻 I am a Blockchain developer and a tech nerd<br/>
+💭 Currently learning About how to make decentralized AI<br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=pkbtc)]
+
 
 
 <!---
