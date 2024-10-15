@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parasar.eth!
+
 
 >Blockchain Developer | Finance Geek | Ethereum alligned | Exploring new frontiers in technology and innovation
 
